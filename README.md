@@ -1,1 +1,3 @@
-# Ether
+# Ether Raffle
+
+gjj
